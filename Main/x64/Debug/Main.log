@@ -1,0 +1,5 @@
+﻿  Source2.cpp
+  Source3.cpp
+C:\Users\masya\source\repos\Main\Source3.cpp(42,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Main.vcxproj -> C:\Users\masya\source\repos\Main\x64\Debug\Main.exe
